@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978949188230",
+    "firebase_url": "https://nasirtelecom-d3638.firebaseio.com",
+    "project_id": "nasirtelecom-d3638",
+    "storage_bucket": "nasirtelecom-d3638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978949188230:android:3078f07eaec33353d63f07",
+        "android_client_info": {
+          "package_name": "com.baiustshurjo.nasir_telecom_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978949188230-uud8he6b9o8j97nu3m3e87r1n8qf61cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8MJizEV9h7llEH_09Zb5YeQjXQFk7k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978949188230-uud8he6b9o8j97nu3m3e87r1n8qf61cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
